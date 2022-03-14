@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://andrem-dsmovie.herokuapp.comgit' ?? "http://localhost:8080"
+export const BASE_URL = 'https://andrem-dsmovie.herokuapp.com' ?? "http://localhost:8080"
